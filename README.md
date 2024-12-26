@@ -50,5 +50,6 @@ Gained experience in interfacing and configuring an LCD to display real-time dat
 Explored the advantages of software-based simulation tools for testing embedded systems without physical hardware.
 
 OUTPUT of the Project:
+https://github.com/user-attachments/assets/8208f9af-78df-42e0-b786-508495b73a09
 
 # codtechtask1
